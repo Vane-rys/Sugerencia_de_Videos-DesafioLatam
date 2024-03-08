@@ -1,0 +1,23 @@
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+    background-color: #082032;
+    color: #F0ECE5;
+}
+h2, p{
+    color: #F0A500;
+}
+
+img {
+    width: 3%;
+}
+
+.bground{
+    background-color: #334756;
+}
+.card-header{
+    background-color: #334756;
+}
+
+.card-body{
+    background-color: #082032;
+}
